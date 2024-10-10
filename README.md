@@ -1,0 +1,2 @@
+# can-manager
+can-translator
